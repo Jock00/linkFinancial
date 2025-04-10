@@ -90,7 +90,8 @@ Visit: [http://localhost:8000](http://localhost:8000)
 
 ## 📈 Frontend Preview
 
-![screenshot](preview.png)
+<img width="1316" alt="image" src="https://github.com/user-attachments/assets/5ca7417a-650e-4153-bd1c-e46db84e25d1" />
+
 
 > Uses Chart.js to render interactive charts for summary and trends.
 
